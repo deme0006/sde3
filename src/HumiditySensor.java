@@ -1,0 +1,3 @@
+interface HumiditySensor {
+    double getHumidity();
+}

@@ -1,0 +1,3 @@
+interface TemperatureSensor {
+    double getTemperature();
+}
