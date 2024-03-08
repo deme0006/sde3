@@ -2,6 +2,8 @@
 
 ## Author: Oleksandr Dementiev
 
+## **GitHub**: https://github.com/deme0006/sde3
+
 The app is quite simple. It is used to display fake weather data (temperature and humidity) and was created to apply knowledge of implementing design pattern.
 _The main file is WeatherStationClient.java_
 
